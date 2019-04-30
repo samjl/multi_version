@@ -1,0 +1,3 @@
+[submodule "v1_0_0"]
+	path = multi_ver_lib/v1_0_0
+	url = git@github.com:samjl/multi_ver_lib.git
